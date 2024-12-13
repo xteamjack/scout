@@ -1,0 +1,18 @@
+A simple web scraper with Selennium Chrome Web Drivers
+
+Contains two parts
+1. Scaper.py - Selennium based scrapper
+   - Scrape1 - simple chrome driver, only browse and scrape, working
+   - Scrape2 - with captcha not working
+2. Parse.py - Ollama and Llama 3.2 based
+
+Note:
+- It is critical to use same version browser and driver. Download them from  https://googlechromelabs.github.io/chrome-for-testing/
+- Some time loader the browser in debug mode is failing. If so close all browser instance and start the app
+
+
+# Setup
+
+1. Python version 3.10.6
+2. Run Ollama and pull llama 3.2
+3. streamlit run main.py
