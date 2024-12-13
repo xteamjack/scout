@@ -10,9 +10,12 @@ Note:
 - It is critical to use same version browser and driver. Download them from  https://googlechromelabs.github.io/chrome-for-testing/
 - Some time loader the browser in debug mode is failing. If so close all browser instance and start the app
 
-
 # Setup
 
 1. Python version 3.10.6
 2. Run Ollama and pull llama 3.2
 3. streamlit run main.py
+
+LinkedIn Parsing
+- Public profile parsing working, but data points are structure, check output
+- For other pages, login profile to be implemented

@@ -1,0 +1,99 @@
+
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+13/12/2024 09:11:30
+https://www.linkedin.com/in/sankarvema/
+can you please give me a json that contains all the details of the linkedin profile of sankarvema
+----------------------------------------------------------------------------------------------------
+{"id": "Sankar Rao Vema", "title": "", "currentCompany": "Stealth Mode Startup Company", " almaMatter": "[\"Duke University - The Fuqua School of Business\"]", "location": "Hyderabad, Telangana, India", "phone": "", "email": "", "experience": {"years": 20, "technologies": ["Artificial Intelligence", "NextGen Tech", "Software Platform Development", "Digital Transformation", "Cloud", "DevSecOps"]}, "interests": {"hobbies": ["Cosmology", "Ancient Knowledge", "Quantum Physics"], "openSource": true}}
+{
+    "name": "Sankar Rao Vema",
+    "currentCompany": "BYJU�S",
+    "previousCompanies": [
+        "DXC Technology",
+        "CSC",
+        "YASH Technologies"
+    ],
+    "jobTitle": "Managing Partner - Product Engineering",
+    "experience": [
+        {
+            "company": "DXC Technology",
+            "period": "Jan 2017 - Aug 2019",
+            "jobTitle": "Director - Distinguished Engineer"
+        },
+        {
+            "company": "CSC",
+            "period": "Apr 2015 - Dec 2014",
+            "jobTitle": "Distinguished Engineer"
+        },
+        {
+            "company": "YASH Technologies",
+            "period": "Mar 2006",
+            "jobTitle": "AIC Club Award"
+        }
+    ],
+    "awards": [
+        "DXC Tech Honors",
+        "Horizon Award",
+        "AIC Club Award",
+        "Special Appreciation Award",
+        "Dr. T Swami Babu Medal",
+        "Sripathi Medal"
+    ],
+    "recommendations": [
+        {
+            "name": "Sreekanth K Arimanithaya",
+            "comment": "Great technologist and excellent leader."
+        },
+        {
+            "name": "Baskar Venugopalan",
+            "comment": "Detail-oriented Techie individual and a good team player."
+        }
+    ],
+    "skills": [
+        "advanced computing concepts",
+        "open source",
+        "tech strategies"
+    ]
+}
+{}
+-------------------------
+13/12/2024 09:15:12
+https://www.linkedin.com/mynetwork/invite-connect/connections/
+parsing the content of the linkedin network of sankarvema, please give me a json that 
+contains total count of connections and an arry containing each connection information like name, designation, 
+contact info, current company
+
+-------------------------
+{
+"connections": 0,
+[
+]
+}
+-------------------------
+13/12/2024 09:16:52
+https://www.linkedin.com/search/results/people/?facetConnectionOf=%5B%22ACoAAACxz8oB9KMGAuE26mUwRE7GYLJaVrYGPLA%22%5D&facetNetwork=%5B%22F%22%5D&origin=SHARED_CONNECTIONS_CANNED_SEARCH&sid=)cQ
+parsing the content of the linkedin network of sankarvema, please give me a json that 
+contains total count of connections and an arry containing each connection information like name, designation, 
+contact info, current company
+
+-------------------------
+{
+
+    "connections": [
+        {
+            "name": "Sankar Vema",
+            "designation": "CEO of Sankar Vema Enterprises",
+            "contactInfo": "sankarvema@gmail.com",
+            "currentCompany": "Sankar Vema Enterprises"
+        },
+        {
+            "name": "John Doe",
+            "designation": "CTO of XYZ Corporation",
+            "contactInfo": "johndoe@xyzcorp.com",
+            "currentCompany": "XYZ Corporation"
+        }
+    ],
+    "totalConnections": 2
+}
